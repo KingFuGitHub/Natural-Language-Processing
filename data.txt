@@ -1,550 +1,453 @@
-Article: 1: Rabbi Chaim Kanievsky, Venerated Talmudic Scholar, Dies at 941. Haredi (ORG)
-Article: 2: Can Eric Adams Cheerlead New Yorkers Past the Pandemic?1. Adams (PERSON)
-2. Democrat (NORP)
-3. David Solomon (PERSON)
-4. Goldman Sachs (ORG)
-5. Jonathan (PERSON)
-Article: 3: Moderna Asks F.D.A. to Authorize a Second Booster for All Adults1. second (ORDINAL)
-2. Tel Aviv (GPE)
-3. Moderna (GPE)
-4. Israel (GPE)
-5. Amir Cohen (PERSON)
-6. Reuters (ORG)
-7. Moderna (PERSON)
-8. late Thursday (DATE)
-Article: 4: China Reports Its First Covid Deaths in Over a Year1. Scarcely two months (DATE)
-2. Omicron (ORG)
-3. the United States (GPE)
-Article: 5: Can Ashish Jha, ‘A Comforting Voice,’ Tamp Down Covid’s Political Divide?1. Jha (PERSON)
-2. Bihar (GPE)
-3. India (GPE)
-4. nine (DATE)
-5. Toronto (GPE)
-6. The Providence Journa (ORG)
-Article: 6: Preschoolers Can Shed Their Masks, Mayor Adams Says1. Earlier this month (DATE)
-2. Adams (PERSON)
-3. 12th (DATE)
-4. under 5 (DATE)
-Article: 7: 2 Years After Declaring Pandemic, W.H.O. Urges Continued Vigilance1. The World Health Organization (ORG)
-2. 2020 (DATE)
-3. two years to the day (DATE)
-Article: 8: Ukraine, Coronavirus, Pompeii: Your Friday Evening Briefing1. 10 (CARDINAL)
-2. Sunday (DATE)
-3. U.S. (GPE)
-4. an hour (TIME)
-5. an extra hour (TIME)
-6. Britain (GPE)
-7. France (GPE)
-8. Germany (GPE)
-Article: 9: Knocked Down by Covid in Beijing, Vincent Zhou Is Getting Back Up1. China (GPE)
-2. Olympic (EVENT)
-Article: 10: Rise of Omicron Subvariant in Europe Could Be Sign for U.S.1. Cologne (GPE)
-2. Germany (GPE)
-3. Europe (LOC)
-4. Thilo Schmuelgen/Reuters (ORG)
-Article: 11: Covid Vaccine Clinics Return to NYC Public Schools. Will They Work?Article: 12: Doug Emhoff, Vice President’s Husband, Tests Positive for the Coronavirus1. Harris (PERSON)
-2. Biden (PERSON)
-3. earlier Tuesday (DATE)
-4. the Presidents Daily Brief (EVENT)
-5. Biden (PERSON)
-Article: 13: Is the Coronavirus Pandemic Over? New Yorkers Are Cautiously Optimistic.1. Sean Rembold (PERSON)
-2. Brooklyns (PERSON)
-Article: 14: What you need to know about the coronavirus right now - Reuters.com1. March 10 (DATE)
-2. Reuters (ORG)
-3. China (GPE)
-4. China (GPE)
-5. 402 (CARDINAL)
-6. COVID-19 infec (PERSON)
-Article: 15: What you need to know about the coronavirus right now - Reuters.com1. March 17 (DATE)
-2. Reuters (ORG)
-3. Britain (GPE)
-4. AstraZeneca (ORG)
-5. Britain (GPE)
-6. AstraZeneca (ORG)
-Article: 16: What you need to know about the coronavirus right now - Reuters1. March 15 (DATE)
-2. Reuters (ORG)
-3. China (GPE)
-4. China (GPE)
-5. daily (DATE)
-Article: 17: What you need to know about the coronavirus right now - Reuters.com1. March 24 (DATE)
-2. Reuters (ORG)
-3. Singapore (GPE)
-4. Singapore (GPE)
-5. Thursday (DATE)
-6. va (GPE)
-Article: 18: 5m people in England to be offered Covid booster jabs1. millions (CARDINAL)
-2. England (GPE)
-3. this week (DATE)
-4. NHS (ORG)
-5. 75 (DATE)
-Article: 19: What you need to know about the coronavirus right now - Reuters.com1. March 9 (DATE)
-2. Reuters (ORG)
-3. Hong Kong (GPE)
-4. Hong Kong (GPE)
-Article: 20: What you need to know about the coronavirus right now - Reuters.com1. March 8 (DATE)
-2. Reuters (ORG)
-3. China (GPE)
-4. Hong Kong (GPE)
-5. zero (CARDINAL)
-6. Chinese (NORP)
-Article: 21: What you need to know about the coronavirus right now - Reuters1. March 21 (DATE)
-2. Reuters (ORG)
-3. Shanghai (GPE)
-4. Disney (ORG)
-5. daily (DATE)
-6. China (GPE)
-7. Shanghai (GPE)
-Article: 22: What you need to know about the coronavirus right now - Reuters1. March 22 (DATE)
-2. Reuters (ORG)
-3. Shanghai (GPE)
-4. daily (DATE)
-5. China (GPE)
-6. Shanghai (GPE)
-7. Tuesday (DATE)
-8. fifth (ORDINAL)
-Article: 23: What you need to know about the coronavirus right now - Reuters.com1. March 18 (DATE)
-2. Reuters (ORG)
-3. World Health Organization (ORG)
-4. Friday (DATE)
-Article: 24: Two years of Covid grief: tributes to family, friends and colleagues who died in the UK1. Wednesday 23 March marks (DATE)
-2. two years (DATE)
-3. first (ORDINAL)
-4. Guardian (ORG)
-5. 24 (CARDINAL)
-6. first (ORDINAL)
-Article: 25: Hawaii Is the Last State to Drop Its Mask Mandate1. Garrison Elementary School (ORG)
-2. Washington (GPE)
-3. D.C. (GPE)
-4. January (DATE)
-5. Erin Schaff (PERSON)
-6. The New York Times (ORG)
-7. American (NORP)
-Article: 26: Austria suspends mandatory Covid vaccination law1. Austria (GPE)
-2. Wednesday (DATE)
-3. just a month (DATE)
-4. EU (ORG)
-5. first (ORDINAL)
-6. 9 m (MONEY)
-Article: 27: Jobs open up for homeless people in UK labour market squeeze - Reuters.com1. WATFORD (ORG)
-2. England (GPE)
-3. March 10 (DATE)
-4. Reuters (ORG)
-5. Zara Asamoah (PERSON)
-Article: 28: Germany reports another record COVID-19 incidence - Reuters1. BERLIN (GPE)
-2. March 16 (DATE)
-3. Reuters (ORG)
-4. Germany (GPE)
-5. seven-day (DATE)
-6. Wednesday (DATE)
-7. Robert Koch Institute (ORG)
-Article: 29: China reports 2667 new COVID cases for March 22 vs 2338 a day earlier - Reuters.com1. BEIJING (GPE)
-2. March 23 (DATE)
-3. Reuters (ORG)
-4. China (GPE)
-5. 2,667 (CARDINAL)
-6. March 22 (DATE)
-7. Wednesday (DATE)
-8. 2,338 (CARDINAL)
-9. a day earlier (DATE)
-Article: 30: Covid restrictions easing across Europe despite surge in cases1. Europe (LOC)
-Article: 31: Germany reports record COVID-19 incidence before easing curbs - Reuters.com1. BERLIN (GPE)
-2. March 15 (DATE)
-3. Reuters (ORG)
-4. Germany (GPE)
-5. seven-day (DATE)
-6. Tuesday (DATE)
-7. just days (DATE)
-8. Robert Koch Institute (ORG)
-Article: 32: China reports 3602 new confirmed coronavirus cases on March 14 vs 1437 a day earlier - Reuters.com1. BEIJING (GPE)
-2. March 15 (DATE)
-3. Reuters (ORG)
-4. China (GPE)
-5. 3,602 (CARDINAL)
-6. March 14 (DATE)
-7. the national health authority (ORG)
-8. Tuesday (DATE)
-9. 1,437 (CARDINAL)
-10. a day earlier (DATE)
-Article: 33: Indonesia scraps quarantine for overseas arrivals - Reuters1. JAKARTA (GPE)
-2. March 21 (DATE)
-3. Reuters (ORG)
-4. Indonesia (GPE)
-5. Monday (DATE)
-Article: 34: China reports 2054 new COVID cases on March 23 vs 2667 day earlier - Reuters.com1. BEIJING (GPE)
-2. March 24 (DATE)
-3. Reuters (ORG)
-4. China (GPE)
-5. 2,054 (CARDINAL)
-6. March 23 (DATE)
-7. Thursday (DATE)
-8. 2,667 (CARDINAL)
-9. a day earlier (DATE)
-Article: 35: Samoa locks down after recording its first community COVID-19 case1. The Tupua Tamasese Meaule Hospital (ORG)
-2. Apia (GPE)
-3. Samoa (GPE)
-4. July 10, 2015 (DATE)
-5. Samoa (GPE)
-6. Saturday (DATE)
-7. first (ORDINAL)
-Article: 36: Pfizer reportedly will seek FDA approval for a second vaccine booster for people 65 and older1. Pfizer (ORG)
-2. BioNTech (GPE)
-3. second (ORDINAL)
-4. those 65 and older (DATE)
-5. three (CARDINAL)
-6. Washington (GPE)
-7. +1022 (ORG)
-Article: 37: Covid spike leads to Cornwall’s main hospital halting visitors1. NHS (ORG)
-2. Cornwall (GPE)
-3. Eighty-five (CARDINAL)
-4. the Royal Cornwall (FAC)
-Article: 38: China stocks fall on Ukraine crisis, inflation worries - Reuters.com1. SHANGHAI (GPE)
-2. March 8 (DATE)
-3. Reuters (ORG)
-4. China (GPE)
-5. Tuesday (DATE)
-6. 20-month (DATE)
-7. Ukraine (GPE)
-Article: 39: China says Hong Kong's priority is to cut COVID infections, deaths - Reuters.com1. HONG KONG (GPE)
-2. March 8 (DATE)
-3. Reuters (ORG)
-4. Hong Kong (GPE)
-5. zero (CARDINAL)
-6. Chinese (NORP)
-Article: 40: COVID surges in Hong Kong, leader urges vaccines - Reuters.com1. Hong Kong (GPE)
-2. Carrie Lam (PERSON)
-3. Friday (DATE)
-4. COVID-19 (CARDINAL)
-5. +30 (DATE)
-Article: 41: COVID surges in Hong Kong, leader urges vaccines - Reuters.com1. Hong Kong (GPE)
-2. Carrie Lam (PERSON)
-3. Friday (DATE)
-4. COVID-19 (CARDINAL)
-5. +30 (DATE)
-Article: 42: Column: China's COVID struggles bring demand destruction back to crude oil debate: Russell - Reuters1. LAUNCESTON (ORG)
-2. Australia (GPE)
-3. March 16 (DATE)
-4. Reuters (ORG)
-5. recent weeks (DATE)
-6. Russia (GPE)
-7. Ukraine (GPE)
-8. China (GPE)
-Article: 43: Omicron sub-variant BA.2 makes up 11.6% of COVID variants in U.S. - CDC - Reuters.com1. March 8 (DATE)
-2. Reuters (ORG)
-3. BA.2 (PERSON)
-4. Omicron (ORG)
-5. 11.6% (PERCENT)
-6. the United States (GPE)
-7. March 5 (DATE)
-8. the U.S. Centers for Disease Control (ORG)
-Article: 44: China's shares drop over 1% on inflation worries, new COVID cases - Reuters.com1. SHANGHAI (GPE)
-2. March 9 (DATE)
-3. Reuters (ORG)
-4. China (GPE)
-5. Wednesday (DATE)
-6. Beijing (GPE)
-Article: 45: Years of low U.S. consumer energy costs wane following Russian invasion - Reuters1. NEW YORK (GPE)
-2. March 9 (DATE)
-3. Reuters (ORG)
-4. U.S. (GPE)
-Article: 46: Hong Kong study says reopening international travel to have little impact on COVID transmission - Reuters.com1. HONG KONG (GPE)
-2. March 22 (DATE)
-3. Reuters (ORG)
-4. Hong Kong (GPE)
-5. Tuesday (DATE)
-Article: 47: Omicron sub-variant BA.2 makes up 34.9% of COVID variants in U.S. - CDC - Reuters.com1. March 22 (DATE)
-2. Reuters (ORG)
-3. BA.2 (PERSON)
-4. Omicron (ORG)
-5. over a third (CARDINAL)
-6. the United States (GPE)
-7. the U.S. Centers for Disease Con (ORG)
-Article: 48: Italy to announce plan to scrap COVID restrictions - Reuters.com1. ROME (GPE)
-2. March 17 (DATE)
-3. Reuters (ORG)
-4. Italian (NORP)
-5. two (CARDINAL)
-6. Thursday (DATE)
-Article: 49: Canadian carriers see spring flying boost, but costs cloud horizon - Reuters.com1. MONTREAL (GPE)
-2. March 9 (DATE)
-3. Reuters (ORG)
-4. Canadian (NORP)
-5. Omicron (ORG)
-Article: 50: Gulf markets track oil prices lower; Ukraine crisis in focus - Reuters.com1. March 15 (DATE)
-2. Reuters (ORG)
-3. Gulf (LOC)
-4. Tuesday (DATE)
-5. Russia (GPE)
-6. Chin (PERSON)
-Article: 51: Hong Kong reports 20082 new COVID cases as city promised fewer restrictions - Reuters.com1. HONG KONG (GPE)
-2. March 18 (DATE)
-3. Reuters (ORG)
-4. Hong Kong (GPE)
-5. about 20,000 (CARDINAL)
-6. Friday (DATE)
-7. zero (CARDINAL)
-Article: 52: Asia's COVID deaths surpass 1 million - Reuters tally - Reuters.com1. March 11 (DATE)
-2. Reuters (ORG)
-3. Asia (LOC)
-4. 1 million (CARDINAL)
-5. Friday (DATE)
-6. Reuters (ORG)
-7. Omicron (ORG)
-Article: 53: China's yuan hits 1-month low as policy easing expectations, COVID resurgence hurt - Reuters.com1. SHANGHAI (GPE)
-2. March 14 (DATE)
-3. Reuters (ORG)
-4. China (GPE)
-5. one-month (DATE)
-6. Monday (DATE)
-Article: 54: Australians told to get boosters amid COVID threat from new Omicron strain - Reuters1. SYDNEY (GPE)
-2. March 14 (DATE)
-3. Reuters (ORG)
-4. Monday (DATE)
-Article: 55: Britain outlines terms of COVID-19 inquiry - Reuters UK1. LONDON (GPE)
-2. March 10 (DATE)
-3. Reuters (ORG)
-4. Britain (GPE)
-5. Thursday (DATE)
-Article: 56: Analysis: An oil shock is coming, but the U.S. may have already paid for it - Reuters.com1. WASHINGTON (GPE)
-2. March 10 (DATE)
-3. Reuters (ORG)
-4. U.S. (GPE)
-Article: 57: Ecuador ends COVID limits on gatherings after hitting vaccination goal - Reuters Canada1. QUITO (GPE)
-2. March 18 (DATE)
-3. Reuters (ORG)
-4. Ecuador (GPE)
-5. Friday (DATE)
-6. South American (NORP)
-Article: 58: Hong Kong hopes to 'resolve' coronavirus flight-ban rule as frustration grows - Reuters.com1. HONG KONG (GPE)
-2. March 23 (DATE)
-3. Reuters (ORG)
-4. Hong Kong (GPE)
-5. two years (DATE)
-Article: 59: Not again: two years after fleeing COVID in China, Ukrainian runs from war - Reuters.com1. LVIV (GPE)
-2. Ukraine (GPE)
-3. March 19 (DATE)
-4. Reuters (ORG)
-5. Two years ago (DATE)
-6. Julia Volok (PERSON)
-7. Ukrainians (NORP)
-8. Wuhan (GPE)
-9. China (GPE)
-Article: 60: Omicron sub-variant makes up 23.1% of COVID variants in U.S. - CDC - Reuters.com1. March 15 (DATE)
-2. Reuters (ORG)
-3. BA.2 (PERSON)
-4. Omicron (ORG)
-5. 23.1% (PERCENT)
-6. the United States (GPE)
-7. March 12 (DATE)
-8. the U.S. Centers for Disease Control (ORG)
-Article: 61: Australia leaders to meet amid Omicron sub-variant concerns, flood damage - Reuters1. SYDNEY (GPE)
-2. March 11 (DATE)
-3. Reuters (ORG)
-4. Australia (GPE)
-5. Friday (DATE)
-6. Omicron (ORG)
-Article: 62: Hong Kong leader says no plans to tighten COVID social distancing measures - Reuters.com1. HONG KONG (GPE)
-2. March 14 (DATE)
-3. Reuters (ORG)
-4. Hong Kong (GPE)
-5. Carrie Lam (PERSON)
-6. Monday (DATE)
-Article: 63: Europe stocks fall as China COVID surge weighs on oil majors, miners - Reuters.com1. March 15 (DATE)
-2. Reuters (ORG)
-3. European (NORP)
-4. Tuesday (DATE)
-5. China (GPE)
-6. U.S. Federal Reserve (ORG)
-Article: 64: Global energy-related carbon emissions rose 6% in 2021 to new record high -IEA - Reuters.com1. LONDON (GPE)
-2. March 8 (DATE)
-3. Reuters (ORG)
-4. 2021 (DATE)
-Article: 65: Ukraine conflict adds to European supply chain snags - Reuters1. BERLIN (GPE)
-2. March 9 (DATE)
-3. Reuters (ORG)
-4. European (NORP)
-5. Ukraine (GPE)
-Article: 66: Thailand drops pre-departure test requirement for visitors - Reuters.com1. BANGKOK (GPE)
-2. March 18 (DATE)
-3. Reuters (ORG)
-4. Thailand (GPE)
-5. Friday (DATE)
-6. next month (DATE)
-Article: 67: S.Korea's total COVID cases top 10 million as crematoria, funeral homes overwhelmed - Reuters.com1. SEOUL (GPE)
-2. March 23 (DATE)
-3. Reuters (ORG)
-4. South Korea's (GPE)
-5. 10 million (CARDINAL)
-6. nearly 20% (PERCENT)
-7. Wednesday (DATE)
-Article: 68: ECB to tighten banks' access to loans after pandemic-era largesse - Reuters.com1. FRANKFURT (GPE)
-2. March 24 (DATE)
-3. Reuters (ORG)
-4. The European Central Bank (ORG)
-5. July (DATE)
-Article: 69: Some House Democrats revolt over states losing COVID cash in huge government spending bill, forcing Pelosi to drop it to avoid a shutdown1. Democrats (NORP)
-2. Wednesday (DATE)
-3. afternoon (TIME)
-4. House (ORG)
-5. $1.5 trillion (MONEY)
-Article: 70: How Russia's invasion of Ukraine, vampire obsession, and 'secret bio-weapons' have played into China's narrative about COVID-19's origin1. Ukraine (GPE)
-2. one (CARDINAL)
-3. US (GPE)
-4. Chinese (NORP)
-Article: 71: In Impasse Over New Covid Relief Aid, Neither Side Is Willing to Bend1. Bidens (PERSON)
-2. this month (DATE)
-Article: 72: Foxconn’s Shenzhen factories resume operations after lockdown1. a week (DATE)
-2. Nora Tam (PERSON)
-3. Getty Images
-Foxconn (ORG)
-Article: 73: Public health measures are key to curbing Covid in UK, say scientists1. Britains (NORP)
-2. the eve of the second anniversary (DATE)
-Article: 74: Italian former PM faces renewed questions over Covid aid from Russia1. Italys (PERSON)
-2. Giuseppe Conte (PERSON)
-3. Russia (GPE)
-4. Italy (GPE)
-5. Kre (ORG)
-Article: 75: Italy reports 60191 coronavirus cases on Tuesday, 184 deaths - Reuters.com1. MILAN (GPE)
-2. March 8 (DATE)
-3. Reuters (ORG)
-4. 60,191 (CARDINAL)
-5. Tuesday (DATE)
-6. 22,083 (CARDINAL)
-7. the day before (DATE)
-8. 184 (CARDINAL)
-9. 130 (CARDINAL)
-10. Italy (GPE)
-Article: 76: Italy reports 32573 coronavirus cases on Monday, 119 deaths - Reuters1. MILAN (GPE)
-2. March 21 (DATE)
-3. Reuters (ORG)
-4. 32,573 (CARDINAL)
-5. Monday (DATE)
-6. 60,415 (CARDINAL)
-7. the day before (DATE)
-8. 119 (CARDINAL)
-9. 93 (CARDINAL)
-10. Italy (GPE)
-Article: 77: UK economy bounces back from Omicron as more people dine out1. Britains (NORP)
-2. Omicron (ORG)
-3. January (DATE)
-Article: 78: NHS under pressure from new Covid wave across England, says Chris Whitty1. NHS (ORG)
-2. England (GPE)
-Article: 79: Hong Kong reports 25150 new daily coronavirus infections - Reuters.com1. HONG KONG (GPE)
-2. March 7 (DATE)
-3. Reuters (ORG)
-4. Hong Kong (GPE)
-5. 25,150 (CARDINAL)
-6. 280 (CARDINAL)
-7. Monday (DATE)
-Article: 80: Hong Kong leader plans to reopen city after controlling latest COVID outbreak - Reuters.com1. HONG KONG (GPE)
-2. March 10 (DATE)
-3. Reuters (ORG)
-4. Hong Kong (GPE)
-5. Carrie Lam (PERSON)
-6. Thursday (DATE)
-7. nine (CARDINAL)
-8. the United States (GPE)
-9. Britain (GPE)
-Article: 81: Fed hikes interest rates, battles inflation - Reuters1. The Federal Reserve (ORG)
-2. Wednesday (DATE)
-3. a quarter (CARDINAL)
-4. next year (DATE)
-Article: 82: China seen easing medium-term borrowing costs as COVID risks grow - Reuters.com1. SHANGHAI (GPE)
-2. March 14 (DATE)
-3. Reuters (ORG)
-4. China (GPE)
-5. second (ORDINAL)
-6. this year (DATE)
-7. Reuters (ORG)
-8. Monday (DATE)
-Article: 83: Former Takeda vaccine chief to lead new COVID antiviral venture Aerium - Reuters.com1. CHICAGO (GPE)
-2. March 22 (DATE)
-3. Reuters (ORG)
-4. Tuesday (DATE)
-5. Rajeev Venkayya (PERSON)
-6. two (CARDINAL)
-Article: 84: AstraZeneca antibody cocktail retains activity against Omicron subvariants - Reuters1. March 21 (DATE)
-2. Reuters (ORG)
-3. Monday (DATE)
-4. COVID-19 (PERSON)
-5. Omicron (ORG)
-Article: 85: Air Canada to add 26 Airbus A321neo aircraft to its fleet - Reuters.com1. March 22 (DATE)
-2. Reuters (ORG)
-3. Air Canada (ORG)
-4. Tuesday (DATE)
-5. 26 (CARDINAL)
-6. Airbus A321neo (ORG)
-Article: 86: Fed hikes interest rates, battles inflation - Reuters1. The Federal Reserve (ORG)
-2. Wednesday (DATE)
-3. a quarter (CARDINAL)
-4. next year (DATE)
-Article: 87: Biden will deliver remarks on law to bolster protections for women facing violence - Reuters1. WASHINGTON (GPE)
-2. March 16 (DATE)
-3. Reuters (ORG)
-4. U.S. (GPE)
-5. Joe Biden (PERSON)
-6. Wednesday (DATE)
-7. the Violence Against Women Act (ORG)
-8. a day earlier (DATE)
-Article: 88: France's COVID-19 infections spike week-on-week following easing of restrictions - Reuters1. PARIS (GPE)
-2. March 21 (DATE)
-3. Reuters (ORG)
-4. France (GPE)
-5. close to 90,000 (CARDINAL)
-6. the last seven days (DATE)
-7. 36% (PERCENT)
-8. one week ago (DATE)
-Article: 89: Hong Kong leader urges vaccinations as COVID infections swamp city - Reuters.com1. HONG KONG (GPE)
-2. March 11 (DATE)
-3. Reuters (ORG)
-4. Hong Kong (GPE)
-5. Carrie Lam (PERSON)
-6. Friday (DATE)
-Article: 90: Australia's Myer Holdings reinstates dividend after four years - Reuters.com1. March 10 (DATE)
-2. Reuters (ORG)
-3. Myer Holdings Ltd (ORG)
-4. Thursday (DATE)
-5. first (ORDINAL)
-6. 2017 (DATE)
-7. the second half of this year (DATE)
-Article: 91: Omicron Surge Persists in Parts of Asia1. Omicron (ORG)
-2. East (LOC)
-3. Southeast Asia (LOC)
-4. +2315 (ORG)
-Article: 92: Ont. confirms 20 virus-related deaths today; Number of COVID-19 patients in ICU drops to 246 - CP24 Toronto's Breaking News1. Ontario (GPE)
-2. 20 (CARDINAL)
-3. today (DATE)
-4. 779 (CARDINAL)
-Article: 93: China battles multiple outbreaks of COVID-19; mass testing ordered - CP24 Toronto's Breaking News1. TAIPEI (GPE)
-2. Taiwan (GPE)
-3. AP (ORG)
-4. Monday (DATE)
-Article: 94: Second pandemic anniversary doesn't mark the end of COVID-19: Dr. Howard Njoo - CP24 Toronto's Breaking News1. the beginning of 2020 (DATE)
-2. Howard Njoo (PERSON)
-3. first (ORDINAL)
-4. 2004 (DATE)
-Article: 95: COVID-19 update for March 22: No deaths, hospitalizations keep dropping | 2,500 unvaxxed B.C. health-care workers lost jobs | Health minister says no end in sight for federal restrictions - Vancouver Sun1. daily (DATE)
-2. B.C. (GPE)
-3. daily (DATE)
-Article: 96: US Surgeon General orders tech companies to reveal sources of COVID-19 misinformation1. Biden (PERSON)
-2. Vivek Murthy (PERSON)
-3. The Washington Post (ORG)
-Article: 97: Hong Kong reports 37529 new COVID-19 cases, 150 deaths - Reuters.com1. HONG KONG (GPE)
-2. March 5 (DATE)
-3. Reuters (ORG)
-4. Hong Kong (GPE)
-5. 37,529 (CARDINAL)
-6. Saturday (DATE)
-7. 150 (CARDINAL)
-Article: 98: Almost a third of people report lingering symptom 6-12 months after COVID-19 -study - Reuters1. March 4 (DATE)
-2. Reuters (ORG)
-3. third (ORDINAL)
-4. at least one (CARDINAL)
-5. between 6 and 12 months (DATE)
-6. 152,000 (CARDINAL)
-7. Denmark (GPE)
-Article: 99: Belgium set to remove almost all COVID restrictions - Reuters.com1. BRUSSELS (GPE)
-2. March 4 (DATE)
-3. Reuters (ORG)
-4. Monday (DATE)
-Article: 100: Bali welcomes first foreign tourists after COVID quarantine rule lifted - Reuters.com1. the I Gusti (FAC)
-2. the first day (DATE)
+Article: 1: Rabbi Chaim Kanievsky, Venerated Talmudic Scholar, Dies at 94
+He initially insisted, “Canceling Torah study is more dangerous than the coronavirus.” But he had a change of heart, even before testing positive.
+Most significant was his ruling that instances of sexual abuse of children should be reported to the civic authorities and not handled exclusively within the Haredi community. This was a sharp depart… [+1849 chars]
+
+Article: 2: Can Eric Adams Cheerlead New Yorkers Past the Pandemic?
+The mayor is singularly focused on bringing back New York City’s economy, now that coronavirus cases have dropped.
+Mr. Adams, a Democrat, has had regular conversations with some of the citys most influential business leaders, including David Solomon, chief executive at the banking firm Goldman Sachs, and Jonathan… [+1705 chars]
+
+Article: 3: Moderna Asks F.D.A. to Authorize a Second Booster for All Adults
+The request is significantly broader than the one filed by Pfizer and BioNTech for their coronavirus vaccine this week. Here’s the latest on Covid.
+A man receiving a second booster of a coronavirus vaccine in Tel Aviv. Moderna cited data in part from Israel in its request.Credit...Amir Cohen/Reuters
+Moderna said late Thursday that it asked the … [+3031 chars]
+
+Article: 4: China Reports Its First Covid Deaths in Over a Year
+The two fatalities are the first coronavirus deaths to be officially recorded in the country since January 2021. Get the latest pandemic news.
+Scarcely two months after the Omicron variant drove coronavirus case numbers to frightening heights in the United States, scientists and health officials are bracing for another swell in the pandemic… [+10570 chars]
+
+Article: 5: Can Ashish Jha, ‘A Comforting Voice,’ Tamp Down Covid’s Political Divide?
+Dr. Jha, the new White House coronavirus response coordinator, has built a reputation as a gifted communicator, but there is much more to the job.
+Dr. Jha was born in Bihar, a state in eastern India that is among the poorest in that country. When he was nine, his parents moved their family to Toronto. He showed up, he told The Providence Journa… [+1974 chars]
+
+Article: 6: Preschoolers Can Shed Their Masks, Mayor Adams Says
+New York City plans to end the mask requirement for the city’s youngest children on April 4 if coronavirus cases remain low.
+Earlier this month, when Mr. Adams eliminated a mask mandate for older students in kindergarten through 12th grades, he said he wanted to wait to make a decision for children under 5. The mayor said … [+1774 chars]
+
+Article: 7: 2 Years After Declaring Pandemic, W.H.O. Urges Continued Vigilance
+Exactly two years after saying that the coronavirus outbreak had become a pandemic, the agency says it isn’t over yet. One American public health expert added, “This virus has fooled us every time.”
+The World Health Organization, often criticized for being too slow to declare in 2020 that a pandemic was underway, now says two years to the day after making that declaration that many countries are… [+4147 chars]
+
+Article: 8: Ukraine, Coronavirus, Pompeii: Your Friday Evening Briefing
+Here’s what you need to know at the end of the day.
+10. And finally, if he could turn back time 
+Daylight saving time begins Sunday in the U.S., as clocks spring forward an hour and we gain an extra hour of daylight. In Britain, France and Germany, t… [+1185 chars]
+
+Article: 9: Knocked Down by Covid in Beijing, Vincent Zhou Is Getting Back Up
+Zhou missed the men’s individual event at the Olympics because of the coronavirus. He is trying to shake off the memory in hopes of excelling at the figure skating world championships.
+Its a fair question. He double masked. He wore a face shield on flights. In China, he ate alone in the Olympic cafeteria, carefully pulling down his mask between bites. He often kept such a distance … [+1316 chars]
+
+Article: 10: Rise of Omicron Subvariant in Europe Could Be Sign for U.S.
+Past coronavirus surges in Europe have predicted what was to come in the United States, but experts say the trend is more a cause for caution than alarm. New York’s experience offers lessons to health experts.
+A street festival in Cologne, Germany. Coronavirus cases are rising in Europe after many countries lifted most pandemic restrictions.Credit...Thilo Schmuelgen/Reuters
+Experts warn that another coron… [+3741 chars]
+
+Article: 11: Covid Vaccine Clinics Return to NYC Public Schools. Will They Work?
+Adults in New York City have among the highest vaccination rates in the country. But the rates for children are far lower, raising concerns as coronavirus cases start to head back up.
+While the clinics will help certain parents by making vaccines easier to access, they may not be enough to convince others, who have not been persuaded about the safety and efficacy of the shots and … [+1653 chars]
+
+Article: 12: Doug Emhoff, Vice President’s Husband, Tests Positive for the Coronavirus
+Vice President Kamala Harris tested negative for the virus on Tuesday, an aide said, but Mr. Emhoff’s positive test forced her to back out of an event with President Biden.
+Ms. Harris stood alongside Mr. Biden earlier Tuesday during a bill signing. She also was at the Presidents Daily Brief in the Oval Office, according to her schedule. Mr. Biden last received a negativ… [+1314 chars]
+
+Article: 13: Is the Coronavirus Pandemic Over? New Yorkers Are Cautiously Optimistic.
+(*Or at least that’s the hope.) After several false starts, New York’s latest comeback finally feels like the real thing.
+The arc of the pandemic, from the dark beginnings to this new awakening, is efficiently told through the story of the chef Sean Rembold, who has worked in some of Brooklyns best loved kitchens. For h… [+2357 chars]
+
+Article: 14: What you need to know about the coronavirus right now - Reuters.com
+What you need to know about the coronavirus right now  Reuters.com
+March 10 (Reuters) - Here's what you need to know about the coronavirus right now:
+China's local symptomatic COVID cases nearly double
+Mainland China reported 402 locally transmitted COVID-19 infec… [+3523 chars]
+
+Article: 15: What you need to know about the coronavirus right now - Reuters.com
+What you need to know about the coronavirus right now  Reuters.com
+March 17 (Reuters) - Here's what you need to know about the coronavirus right now:
+Britain approves AstraZeneca's preventative COVID therapy
+Britain's medicines regulator has approved AstraZeneca's… [+3070 chars]
+
+Article: 16: What you need to know about the coronavirus right now - Reuters
+What you need to know about the coronavirus right now  Reuters
+March 15 (Reuters) - Here's what you need to know about the coronavirus right now:
+China's soaring COVID infections fuel concern about cost of containment
+China posted a steep jump in daily COVID-1… [+3357 chars]
+
+Article: 17: What you need to know about the coronavirus right now - Reuters.com
+What you need to know about the coronavirus right now  Reuters.com
+March 24 (Reuters) - Here's what you need to know about the coronavirus right now:
+Singapore extends quarantine-free entry
+Singapore said on Thursday it will lift quarantine requirements for all va… [+3486 chars]
+
+Article: 18: 5m people in England to be offered Covid booster jabs
+Vaccine available to care home residents, people aged 75 and over, and immunosuppressed aged 12 and over<ul><li>Coronavirus – latest updates</li><li>See all our coronavirus coverage</li></ul>Coronavirus booster vaccine jabs for millions of people in England w…
+Coronavirus booster vaccine jabs for millions of people in England will begin to be offered this week, the NHS announced.
+The vaccine will be available to care home residents, people who are 75 and … [+2360 chars]
+
+Article: 19: What you need to know about the coronavirus right now - Reuters.com
+What you need to know about the coronavirus right now  Reuters.com
+March 18 (Reuters) - Here's what you need to know about the coronavirus right now:
+COVID pandemic is 'far from over' - WHO official
+A World Health Organization spokesperson said on Friday that the … [+3475 chars]
+
+Article: 20: What you need to know about the coronavirus right now - Reuters
+What you need to know about the coronavirus right now  Reuters
+March 21 (Reuters) - Here's what you need to know about the coronavirus right now:
+Shanghai's Disney resort shut amid record daily local infections
+China's financial hub of Shanghai reported on Mon… [+3371 chars]
+
+Article: 21: What you need to know about the coronavirus right now - Reuters
+What you need to know about the coronavirus right now  Reuters
+March 22 (Reuters) - Here's what you need to know about the coronavirus right now:
+Shanghai COVID cases hit daily record
+China's financial hub Shanghai on Tuesday reported a fifth consecutive daily… [+3152 chars]
+
+Article: 22: What you need to know about the coronavirus right now - Reuters.com
+What you need to know about the coronavirus right now  Reuters.com
+March 8 (Reuters) - Here's what you need to know about the coronavirus right now:
+China says Hong Kong must stick to "dynamic zero" COVID strategy
+A top Chinese health official rallied embattled Ho… [+3487 chars]
+
+Article: 23: What you need to know about the coronavirus right now - Reuters.com
+What you need to know about the coronavirus right now  Reuters.com
+March 9 (Reuters) - Here's what you need to know about the coronavirus right now:
+Hong Kong to focus COVID resources on elderly
+Hong Kong announced plans to devote more medical resources to elderly… [+3883 chars]
+
+Article: 24: Two years of Covid grief: tributes to family, friends and colleagues who died in the UK
+Twenty-four tributes for people who have died from coronavirus on the second anniversary of the first lockdownWednesday 23 March marks two years since the first lockdown. The Guardian has collated 24 tributes for people who have died from coronavirus – one fo…
+Wednesday 23 March marks two years since the first lockdown. The Guardian has collated 24 tributes for people who have died from coronavirus one for every month since the first lockdown began.
+March… [+18588 chars]
+
+Article: 25: Hawaii Is the Last State to Drop Its Mask Mandate
+The state’s governor said the requirement would no longer be in effect starting on March 26. Masks are still required indoors at public schools in Hawaii, the last state with such a mandate.
+Students read during class at Garrison Elementary School in Washington, D.C., in January.Credit...Erin Schaff/The New York Times
+More and more American school districts have dropped mask mandates in… [+3988 chars]
+
+Article: 26: Austria suspends mandatory Covid vaccination law
+EU’s first such rule dropped just a month after it took effect, as minister says it can no longer be justified<ul><li>Coronavirus – latest updates</li><li>See all our coronavirus coverage</li></ul>Austria is suspending a law making Covid-19 vaccinations manda…
+Austria is suspending a law making Covid-19 vaccinations mandatory for all adults, the government said on Wednesday, just a month after the legislation took effect in an EU first.
+The country of 9 m… [+1133 chars]
+
+Article: 27: Jobs open up for homeless people in UK labour market squeeze - Reuters.com
+When Zara Asamoah graduated early in the coronavirus pandemic, she had no fixed abode and her chances of finding work looked remote.
+WATFORD, England, March 10 (Reuters) - When Zara Asamoah graduated early in the coronavirus pandemic, she had no fixed abode and her chances of finding work looked remote.
+Now, thanks to an acute la… [+5294 chars]
+
+Article: 28: China reports 2667 new COVID cases for March 22 vs 2338 a day earlier - Reuters.com
+China reported 2,667 confirmed coronavirus cases for March 22, the country's national health authority said on Wednesday, compared with 2,338 a day earlier.
+BEIJING, March 23 (Reuters) - China reported 2,667 confirmed coronavirus cases for March 22, the country's national health authority said on Wednesday, compared with 2,338 a day earlier.
+Of the new … [+547 chars]
+
+Article: 29: Germany reports another record COVID-19 incidence - Reuters
+Germany reported another record high seven-day incidence of the coronavirus on Wednesday even as the country prepares to ease restrictions.
+BERLIN, March 16 (Reuters) - Germany reported another record high seven-day incidence of the coronavirus on Wednesday even as the country prepares to ease restrictions.
+The Robert Koch Institute (RK… [+1237 chars]
+
+Article: 30: Covid restrictions easing across Europe despite surge in cases
+Germany to lift most controls despite daily record as cases also climb in Austria, Spain and France<ul><li>Coronavirus – latest updates</li><li>See all our coronavirus coverage</li></ul>Pandemic restrictions are being lifted with alacrity across Europe despit…
+Pandemic restrictions are being lifted with alacrity across Europe despite many countries experiencing a record surge in coronavirus cases and concerns about the failure to vaccinate many people cons… [+5259 chars]
+
+Article: 31: Germany reports record COVID-19 incidence before easing curbs - Reuters.com
+Germany reported a record high seven-day incidence of the coronavirus on Tuesday, just days before the planned easing of restrictions.
+BERLIN, March 15 (Reuters) - Germany reported a record high seven-day incidence of the coronavirus on Tuesday, just days before the planned easing of restrictions.
+The Robert Koch Institute (RKI) re… [+916 chars]
+
+Article: 32: China reports 3602 new confirmed coronavirus cases on March 14 vs 1437 a day earlier - Reuters.com
+Mainland China reported 3,602 new confirmed coronavirus cases on March 14, the national health authority said on Tuesday, compared with 1,437 a day earlier.
+BEIJING, March 15 (Reuters) - Mainland China reported 3,602 new confirmed coronavirus cases on March 14, the national health authority said on Tuesday, compared with 1,437 a day earlier.
+Of the new … [+549 chars]
+
+Article: 33: Indonesia scraps quarantine for overseas arrivals - Reuters
+Indonesia has removed its quarantine requirement for all arrivals from overseas, its tourism minister said on Monday, responding to improvements in its containment of the coronavirus
+JAKARTA, March 21 (Reuters) - Indonesia has removed its quarantine requirement for all arrivals from overseas, its tourism minister said on Monday, responding to improvements in its containment of th… [+1643 chars]
+
+Article: 34: China reports 2054 new COVID cases on March 23 vs 2667 day earlier - Reuters.com
+China reported 2,054 new confirmed coronavirus cases on March 23, the country's national health authority said on Thursday, down from 2,667 a day earlier.
+BEIJING, March 24 (Reuters) - China reported 2,054 new confirmed coronavirus cases on March 23, the country's national health authority said on Thursday, down from 2,667 a day earlier.
+Of the new ca… [+771 chars]
+
+Article: 35: Samoa locks down after recording its first community COVID-19 case
+A 29-year-old woman tested positive for the coronavirus on Thursday during routine testing before boarding an international flight.
+The Tupua Tamasese Meaule Hospital is pictured in Apia, Samoa, on July 10, 2015. Samoa will go into lockdown beginning Saturday as it faces its first outbreak of the coronavirus after a woman who was… [+3192 chars]
+
+Article: 36: Pfizer reportedly will seek FDA approval for a second vaccine booster for people 65 and older
+Pfizer CEO Albert Bourla previously said that a fourth coronavirus vaccine is "necessary" to protect against COVID-19.
+Pfizer and BioNTech are expected to seek emergency authorization for a second booster shot of the coronavirus vaccine for those 65 and older, three sources close to the situation told the Washington … [+1022 chars]
+
+Article: 37: Covid spike leads to Cornwall’s main hospital halting visitors
+Most of the 85 Covid-positive patients at the Royal Cornwall hospital were admitted for another reason<ul><li>See all our coronavirus coverage</li></ul>The main NHS hospital in Cornwall has been forced to suspend almost all visiting after a “significant” spik…
+The main NHS hospital in Cornwall has been forced to suspend almost all visiting after a significant spike in the number of patients with Covid.
+Eighty-five patients at the Royal Cornwall hospital i… [+2372 chars]
+
+Article: 38: China says Hong Kong's priority is to cut COVID infections, deaths - Reuters.com
+Hong Kong needs to stick to its "dynamic zero" coronavirus strategy, focused on reducing infections, severe illnesses and death, a senior Chinese health official said, as the city braced for details of an expected mass testing plan this month.
+HONG KONG, March 8 (Reuters) - Hong Kong needs to stick to its "dynamic zero" coronavirus strategy, focused on reducing infections, severe illnesses and death, a senior Chinese health official said, … [+1896 chars]
+
+Article: 39: China stocks fall on Ukraine crisis, inflation worries - Reuters.com
+China stocks extended losses on Tuesday after hitting a 20-month low in the previous session, as little progress in Ukraine peace talks, worries on inflation, and domestic coronavirus outbreaks weighed on markets.
+SHANGHAI, March 8 (Reuters) - China stocks extended losses on Tuesday after hitting a 20-month low in the previous session, as little progress in Ukraine peace talks, worries on inflation, and domest… [+2424 chars]
+
+Article: 40: China's shares drop over 1% on inflation worries, new COVID cases - Reuters.com
+China's shares extended losses on Wednesday, as market watchers remain on edge amid fears of a wider impact of commodity prices' surge on Beijing, while new coronavirus cases in the world's second-largest economy also weighed on risk sentiment.
+SHANGHAI, March 9 (Reuters) - China's shares extended losses on Wednesday, as market watchers remain on edge amid fears of a wider impact of commodity prices' surge on Beijing, while new coronavirus … [+2681 chars]
+
+Article: 41: Hong Kong study says reopening international travel to have little impact on COVID transmission - Reuters.com
+The full reopening of international travel in Hong Kong will have "little marginal impact" on the spread of COVID-19, an academic study said on Tuesday, as the financial hub begins to unwind strict coronavirus measures.
+HONG KONG, March 22 (Reuters) - The full reopening of international travel in Hong Kong will have "little marginal impact" on the spread of COVID-19, an academic study said on Tuesday, as the financi… [+2523 chars]
+
+Article: 42: Column: China's COVID struggles bring demand destruction back to crude oil debate: Russell - Reuters
+The crude oil market has spent recent weeks worrying about the impact on supply from Russia's invasion of Ukraine, but China's ongoing battle to contain the coronavirus pandemic is highlighting the return of demand destruction fears.
+LAUNCESTON, Australia, March 16 (Reuters) - The crude oil market has spent recent weeks worrying about the impact on supply from Russia's invasion of Ukraine, but China's ongoing battle to contain th… [+4377 chars]
+
+Article: 43: COVID surges in Hong Kong, leader urges vaccines - Reuters.com
+Hong Kong leader Carrie Lam said on Friday that the city's COVID-19 vaccination program would focus on its elderly and children, as authorities battled to reduce a surge of coronavirus infections and climbing death rates.
+Posted 
+Hong Kong leader Carrie Lam said on Friday that the city's COVID-19 vaccination program would focus on its elderly and children, as authorities battled to reduce a surge of coronavirus infec… [+30 chars]
+
+Article: 44: COVID surges in Hong Kong, leader urges vaccines - Reuters.com
+Hong Kong leader Carrie Lam said on Friday that the city's COVID-19 vaccination program would focus on its elderly and children, as authorities battled to reduce a surge of coronavirus infections and climbing death rates.
+Posted 
+Hong Kong leader Carrie Lam said on Friday that the city's COVID-19 vaccination program would focus on its elderly and children, as authorities battled to reduce a surge of coronavirus infec… [+30 chars]
+
+Article: 45: Years of low U.S. consumer energy costs wane following Russian invasion - Reuters
+U.S. motorists, already dealing with a steep rise in spending on fuel as the economy rebounded from the coronavirus-induced recession, are now dealing with surging gasoline prices after Russia's invasion of Ukraine.
+NEW YORK, March 9 (Reuters) - U.S. motorists, already dealing with a steep rise in spending on fuel as the economy rebounded from the coronavirus-induced recession, are now dealing with surging gasol… [+2633 chars]
+
+Article: 46: Omicron sub-variant BA.2 makes up 11.6% of COVID variants in U.S. - CDC - Reuters.com
+The BA.2 sub-variant of Omicron was estimated to be 11.6% of the coronavirus variants circulating in the United States as of March 5, the U.S. Centers for Disease Control and Prevention (CDC) said on Tuesday.
+March 8 (Reuters) - The BA.2 sub-variant of Omicron was estimated to be 11.6% of the coronavirus variants circulating in the United States as of March 5, the U.S. Centers for Disease Control and Prev… [+1350 chars]
+
+Article: 47: Omicron sub-variant BA.2 makes up 34.9% of COVID variants in U.S. - CDC - Reuters.com
+The BA.2 sub-variant of Omicron makes up over a third of all coronavirus variants circulating in the United States, according to an estimate from the U.S. Centers for Disease Control and Prevention (CDC) on Tuesday.
+March 22 (Reuters) - The BA.2 sub-variant of Omicron makes up over a third of all coronavirus variants circulating in the United States, according to an estimate from the U.S. Centers for Disease Con… [+1304 chars]
+
+Article: 48: Canadian carriers see spring flying boost, but costs cloud horizon - Reuters.com
+Canadian carriers are seeing a bounce in spring travel after a slump due to the spread of the Omicron coronavirus variant, with the country's largest airport bracing for its busiest travel day since the onset of the pandemic this Friday.
+MONTREAL, March 9 (Reuters) - Canadian carriers are seeing a bounce in spring travel after a slump due to the spread of the Omicron coronavirus variant, with the country's largest airport bracing for… [+2933 chars]
+
+Article: 49: Asia's COVID deaths surpass 1 million - Reuters tally - Reuters.com
+Asia passed the grim milestone of 1 million coronavirus-linked deaths on Friday, a Reuters tally showed, as a spike in Omicron variant infections spreads across the region after starting in nations such as Japan and South Korea.
+March 11 (Reuters) - Asia passed the grim milestone of 1 million coronavirus-linked deaths on Friday, a Reuters tally showed, as a spike in Omicron variant infections spreads across the region after … [+2876 chars]
+
+Article: 50: Britain outlines terms of COVID-19 inquiry - Reuters UK
+Britain on Thursday outlined the terms of reference of its planned inquiry into the COVID-19 pandemic, looking into the preparedness of the country as well as the public health and economic response to the coronavirus.
+LONDON, March 10 (Reuters) - Britain on Thursday outlined the terms of reference of its planned inquiry into the COVID-19 pandemic, looking into the preparedness of the country as well as the public … [+1293 chars]
+
+Article: 51: Analysis: An oil shock is coming, but the U.S. may have already paid for it - Reuters.com
+The gusher of money the U.S. government poured into family bank accounts during the coronavirus pandemic, credited with speeding the rebound from the health crisis, may now help limit the economic damage from Russia's invasion of Ukraine.
+WASHINGTON, March 10 (Reuters) - The gusher of money the U.S. government poured into family bank accounts during the coronavirus pandemic, credited with speeding the rebound from the health crisis, m… [+6820 chars]
+
+Article: 52: Australians told to get boosters amid COVID threat from new Omicron strain - Reuters
+Australian authorities on Monday warned the slow rollout of COVID-19 vaccine booster shots could unleash a new wave of infections amid the threat from the highly contagious BA.2 sub-variant of the Omicron coronavirus strain.
+SYDNEY, March 14 (Reuters) - Australian authorities on Monday warned the slow rollout of COVID-19 vaccine booster shots could unleash a new wave of infections amid the threat from the highly contagio… [+2190 chars]
+
+Article: 53: China's yuan hits 1-month low as policy easing expectations, COVID resurgence hurt - Reuters.com
+China's yuan weakened to a one-month low against the dollar on Monday, breaching a key threshold, pressured by rising expectations of monetary policy easing and worries over the fast spread of locally transmitted coronavirus cases.
+SHANGHAI, March 14 (Reuters) - China's yuan weakened to a one-month low against the dollar on Monday, breaching a key threshold, pressured by rising expectations of monetary policy easing and worries… [+3138 chars]
+
+Article: 54: Gulf markets track oil prices lower; Ukraine crisis in focus - Reuters.com
+Energy-heavy Gulf markets fell on Tuesday, tracking lower oil prices as Russia-Ukraine ceasefire talks eased fears of further supply oil disruptions and coronavirus cases in China fuelled concerns about slower crude demand.
+March 15 (Reuters) - Energy-heavy Gulf markets fell on Tuesday, tracking lower oil prices as Russia-Ukraine ceasefire talks eased fears of further supply oil disruptions and coronavirus cases in Chin… [+1799 chars]
+
+Article: 55: Hong Kong reports 20082 new COVID cases as city promised fewer restrictions - Reuters.com
+Hong Kong reported about 20,000 new coronavirus cases on Friday as health experts called for a clear way out of a "zero COVID" policy that has left the city isolated.
+HONG KONG, March 18 (Reuters) - Hong Kong reported about 20,000 new coronavirus cases on Friday as health experts called for a clear way out of a "zero COVID" policy that has left the city isolated.… [+2182 chars]
+
+Article: 56: Italy to announce plan to scrap COVID restrictions - Reuters.com
+The Italian government was set to announce a two-step plan on Thursday scrapping most of its coronavirus restrictions as the country nears the end of its state of emergency.
+ROME, March 17 (Reuters) - The Italian government was set to announce a two-step plan on Thursday scrapping most of its coronavirus restrictions as the country nears the end of its state of emergency… [+1246 chars]
+
+Article: 57: Ecuador ends COVID limits on gatherings after hitting vaccination goal - Reuters Canada
+Ecuador's president on Friday announced an end to coronavirus limits on public and private gatherings, but the South American country will continue to require foreign visitors to show proof of vaccinations or a negative COVID-19 test.
+QUITO, March 18 (Reuters) - Ecuador's president on Friday announced an end to coronavirus limits on public and private gatherings, but the South American country will continue to require foreign visi… [+1841 chars]
+
+Article: 58: Hong Kong hopes to 'resolve' coronavirus flight-ban rule as frustration grows - Reuters.com
+Hong Kong is looking to amend its coronavirus travel restrictions that have largely sealed off the international business and tourism hub for two years to the growing anger of residents and businesses, the city leader said on Wednesday.
+HONG KONG, March 23 (Reuters) - Hong Kong is looking to amend its coronavirus travel restrictions that have largely sealed off the international business and tourism hub for two years to the growing … [+2187 chars]
+
+Article: 59: Not again: two years after fleeing COVID in China, Ukrainian runs from war - Reuters.com
+Two years ago Julia Volok was shocked to experience an angry reception from fellow Ukrainians as she fled home from Wuhan in China, the epicentre of the soon-to-be global coronavirus pandemic.
+LVIV, Ukraine, March 19 (Reuters) - Two years ago Julia Volok was shocked to experience an angry reception from fellow Ukrainians as she fled home from Wuhan in China, the epicentre of the soon-to-be… [+1941 chars]
+
+Article: 60: Thailand drops pre-departure test requirement for visitors - Reuters.com
+Thailand said on Friday it will scrap a mandatory pre-departure coronavirus test for visitors starting next month but will still require entry registrations in advance and an on-arrival test.
+BANGKOK, March 18 (Reuters) - Thailand said on Friday it will scrap a mandatory pre-departure coronavirus test for visitors starting next month but will still require entry registrations in advance a… [+1652 chars]
+
+Article: 61: Hong Kong leader says no plans to tighten COVID social distancing measures - Reuters.com
+Hong Kong leader Carrie Lam said on Monday there were no current plans to further tighten strict social distancing measures as authorities battle to contain a deepening coronavirus outbreak which has submerged its health system and seen deaths soar.
+HONG KONG, March 14 (Reuters) - Hong Kong leader Carrie Lam said on Monday there were no current plans to further tighten strict social distancing measures as authorities battle to contain a deepenin… [+2251 chars]
+
+Article: 62: Australia leaders to meet amid Omicron sub-variant concerns, flood damage - Reuters
+Australia's national cabinet will meet on Friday against a backdrop of concerns about the spread of the new sub-variant of the Omicron strain of the coronavirus, while eastern states battle to clear tonnes of debris after devastating floods.
+SYDNEY, March 11 (Reuters) - Australia's national cabinet will meet on Friday against a backdrop of concerns about the spread of the new sub-variant of the Omicron strain of the coronavirus, while ea… [+2112 chars]
+
+Article: 63: Omicron sub-variant makes up 23.1% of COVID variants in U.S. - CDC - Reuters.com
+The BA.2 sub-variant of Omicron was estimated to be 23.1% of the coronavirus variants circulating in the United States as of March 12, the U.S. Centers for Disease Control and Prevention (CDC) said on Tuesday.
+March 15 (Reuters) - The BA.2 sub-variant of Omicron was estimated to be 23.1% of the coronavirus variants circulating in the United States as of March 12, the U.S. Centers for Disease Control and Pr… [+1538 chars]
+
+Article: 64: Global energy-related carbon emissions rose 6% in 2021 to new record high -IEA - Reuters.com
+Global energy-related emissions of carbon dioxide rose to their highest ever level in 2021 as economies recovered from the coronavirus pandemic and coal use increased, the International Energy Agency (IEA) said on Tuesday.
+LONDON, March 8 (Reuters) - Global energy-related emissions of carbon dioxide rose to their highest ever level in 2021 as economies recovered from the coronavirus pandemic and coal use increased, the… [+1403 chars]
+
+Article: 65: Ukraine conflict adds to European supply chain snags - Reuters
+European companies are suffering yet more strain on supply chains already snarled up by the coronavirus pandemic as the conflict in Ukraine leads to growing shortages of key components, they warned on Wednesday.
+BERLIN, March 9 (Reuters) - European companies are suffering yet more strain on supply chains already snarled up by the coronavirus pandemic as the conflict in Ukraine leads to growing shortages of k… [+4384 chars]
+
+Article: 66: Europe stocks fall as China COVID surge weighs on oil majors, miners - Reuters.com
+European stock markets fell on Tuesday, with commodity-linked shares hit by concerns about surging coronavirus cases in China, while nerves ahead of a U.S. Federal Reserve meeting this week added to the gloom.
+March 15 (Reuters) - European stock markets fell on Tuesday, with commodity-linked shares hit by concerns about surging coronavirus cases in China, while nerves ahead of a U.S. Federal Reserve meetin… [+1071 chars]
+
+Article: 67: S.Korea's total COVID cases top 10 million as crematoria, funeral homes overwhelmed - Reuters.com
+South Korea's total coronavirus infections topped 10 million, or nearly 20% of its population, authorities said on Wednesday, as surging severe cases and deaths increasingly put a strain on crematories and funeral homes nationwide.
+SEOUL, March 23 (Reuters) - South Korea's total coronavirus infections topped 10 million, or nearly 20% of its population, authorities said on Wednesday, as surging severe cases and deaths increasing… [+2719 chars]
+
+Article: 68: ECB to tighten banks' access to loans after pandemic-era largesse - Reuters.com
+The European Central Bank will tighten banks' access to its liquidity from July by phasing out exceptionally easy collateral rules introduced at the onset of the coronavirus pandemic, the ECB said on Thursday.
+FRANKFURT, March 24 (Reuters) - The European Central Bank will tighten banks' access to its liquidity from July by phasing out exceptionally easy collateral rules introduced at the onset of the coron… [+2047 chars]
+
+Article: 69: Some House Democrats revolt over states losing COVID cash in huge government spending bill, forcing Pelosi to drop it to avoid a shutdown
+Democrats were forced to eject $15 billion in new coronavirus relief funding after a last-minute blow up on repurposing previous stimulus aid.
+Some Democrats launched a revolt Wednesday afternoon over planned cuts to state and local aid to fund additional coronavirus relief, delaying a planned House vote on a $1.5 trillion government fundin… [+2717 chars]
+
+Article: 70: How Russia's invasion of Ukraine, vampire obsession, and 'secret bio-weapons' have played into China's narrative about COVID-19's origin
+Russia's false claims about US bio-weapons laboratories in Ukraine have fed conspiracy theories in China concerning the coronavirus' point of origin.
+Cross a love for vampires with the invasion of Ukraine, and one ends up with secret US biological weapons that led to the spread of COVID-19, at least according to Chinese social media users and stat… [+3019 chars]
+
+Article: 71: In Impasse Over New Covid Relief Aid, Neither Side Is Willing to Bend
+The White House wants more money for treatments, tests, vaccines and research, but Republicans in Congress insist the administration will have to repurpose existing funds.
+Mr. Bidens new coronavirus response strategy, outlined this month, included plans to secure more antiviral pills; to build up testing capacity; and to accelerate development of the next generation of… [+1379 chars]
+
+Article: 72: Foxconn’s Shenzhen factories resume operations after lockdown
+Foxconn, the world’s biggest contract manufacturer of electronics, says it’s “basically” resumed normal operations in Shenzhen after a partial lockdown forced its factories offline. Its Longhua and Guanlan factories are impacted.
+After a week offline
+Photo by Nora Tam/South China Morning Post via Getty Images
+Foxconn, the worlds biggest contract manufacturer of electronics, says its basically resumed normal operations in Sh… [+1282 chars]
+
+Article: 73: Italy reports 60191 coronavirus cases on Tuesday, 184 deaths - Reuters.com
+Italy reported 60,191 COVID-19 related cases on Tuesday, against 22,083 the day before, the health ministry said, while the number of deaths rose to 184 from 130.
+MILAN, March 8 (Reuters) - Italy reported 60,191 COVID-19 related cases on Tuesday, against 22,083 the day before, the health ministry said, while the number of deaths rose to 184 from 130.
+Italy ha… [+812 chars]
+
+Article: 74: Italy reports 32573 coronavirus cases on Monday, 119 deaths - Reuters
+Italy reported 32,573 COVID-19 related cases on Monday, against 60,415 the day before, the health ministry said, while the number of deaths rose to 119 from 93.
+MILAN, March 21 (Reuters) - Italy reported 32,573 COVID-19 related cases on Monday, against 60,415 the day before, the health ministry said, while the number of deaths rose to 119 from 93.
+Italy has… [+811 chars]
+
+Article: 75: Public health measures are key to curbing Covid in UK, say scientists
+On the second anniversary of the first lockdown, experts including Wellcome Trust director Jeremy Farrar, outline what needs to be done to cope with pandemics<ul><li>Coronavirus – latest updates</li><li>See all our coronavirus coverage</li></ul>Stopping the s…
+Stopping the spread of Covid-19 through public health measures remains vital to curbing the pandemic, one of Britains most senior scientific figures has warned.
+On the eve of the second anniversary … [+7011 chars]
+
+Article: 76: Italian former PM faces renewed questions over Covid aid from Russia
+Moscow dispatched military doctors, PPE and ventilators to Italy early in coronavirus pandemic<ul><li>Ukraine-Russia war – latest updates</li></ul>Italy’s former prime minister Giuseppe Conte is under pressure to clarify an arrangement under which Russia supp…
+Italys former prime minister Giuseppe Conte is under pressure to clarify an arrangement under which Russia supplied aid to Italy early in the coronavirus pandemic, as questions resurface over the Kre… [+2589 chars]
+
+Article: 77: UK economy bounces back from Omicron as more people dine out
+All sectors returned to growth in January to help lift GDP by 0.8%, says ONS<ul><li>Business live updates: UK economy rebounds strongly</li><li>See all our coronavirus coverage</li></ul>Britain’s economy bounced back from the Omicron variant of coronavirus at…
+Britains economy bounced back from the Omicron variant of coronavirus at a faster pace than expected during January, as consumers returned to eating and drinking out in pubs and restaurants.
+The Off… [+2382 chars]
+
+Article: 78: NHS under pressure from new Covid wave across England, says Chris Whitty
+Increasing numbers of people needing hospital treatment for coronavirus, says chief medical officerThe NHS is coming under “significant” pressure amid a rise in Covid cases in virtually every area of England, the chief medical officer has warned, with hospita…
+The NHS is coming under significant pressure amid a rise in Covid cases in virtually every area of England, the chief medical officer has warned, with hospitalisations likely to continue increasing a… [+3762 chars]
+
+Article: 79: Hong Kong reports 25150 new daily coronavirus infections - Reuters.com
+Hong Kong reported 25,150 new coronavirus infections and 280 deaths on Monday, as authorities struggle to contain a worsening COVID-19 outbreak which has torn through hundreds of nursing homes and hit many of the city's unvaccinated elderly.
+HONG KONG, March 7 (Reuters) - Hong Kong reported 25,150 new coronavirus infections and 280 deaths on Monday, as authorities struggle to contain a worsening COVID-19 outbreak which has torn through h… [+1896 chars]
+
+Article: 80: Hong Kong leader plans to reopen city after controlling latest COVID outbreak - Reuters.com
+Hong Kong leader Carrie Lam said on Thursday it was not the time to lift a ban on flights from nine countries including the United States and Britain, with plans to reopen the city only after the government controls a deepening coronavirus outbreak.
+HONG KONG, March 10 (Reuters) - Hong Kong leader Carrie Lam said on Thursday it was not the time to lift a ban on flights from nine countries including the United States and Britain, with plans to re… [+2471 chars]
+
+Article: 81: Fed hikes interest rates, battles inflation - Reuters
+The Federal Reserve on Wednesday raised interest rates by a quarter of a percentage point and laid out an aggressive plan to push borrowing costs to restrictive levels by next year as concerns about high inflation and the war in Ukraine overtook the risks of …
+Posted 
+The Federal Reserve on Wednesday raised interest rates by a quarter of a percentage point and laid out an aggressive plan to push borrowing costs to restrictive levels by next year as concer… [+93 chars]
+
+Article: 82: AstraZeneca antibody cocktail retains activity against Omicron subvariants - Reuters
+AstraZeneca <a href="https://www.reuters.com/companies/AZN.L" target="_blank">(AZN.L)</a> said on Monday its antibody-based cocktail to prevent and treat COVID-19 was shown to retain neutralising activity against the Omicron coronavirus variants, including BA…
+March 21 (Reuters) - AstraZeneca (AZN.L) said on Monday its antibody-based cocktail to prevent and treat COVID-19 was shown to retain neutralising activity against the Omicron coronavirus variants, i… [+409 chars]
+
+Article: 83: Former Takeda vaccine chief to lead new COVID antiviral venture Aerium - Reuters.com
+Aerium Therapeutics, a venture-backed startup, on Tuesday announced industry veteran Rajeev Venkayya will lead the company and released data that showed its two experimental monoclonal antibodies neutralized coronavirus variants, including Omicron and its fas…
+CHICAGO, March 22 (Reuters) - Aerium Therapeutics, a venture-backed startup, on Tuesday announced industry veteran Rajeev Venkayya will lead the company and released data that showed its two experime… [+2199 chars]
+
+Article: 84: Air Canada to add 26 Airbus A321neo aircraft to its fleet - Reuters.com
+Air Canada <a href="https://www.reuters.com/companies/AC.TO" target="_blank">(AC.TO)</a> said on Tuesday it would add 26 extra-long-range versions of the Airbus A321neo aircraft to its fleet as travel demand has jumped after a blip caused by the Omicron coron…
+March 22 (Reuters) - Air Canada (AC.TO) said on Tuesday it would add 26 extra-long-range versions of the Airbus A321neo aircraft to its fleet as travel demand has jumped after a blip caused by the Om… [+1666 chars]
+
+Article: 85: China seen easing medium-term borrowing costs as COVID risks grow - Reuters.com
+China's central bank is expected to roll over maturing medium-term policy loans and cut borrowing costs for the second time this year, a Reuters poll showed on Monday, as the a fresh wave of coronavirus infections weighs on the broader economy.
+SHANGHAI, March 14 (Reuters) - China's central bank is expected to roll over maturing medium-term policy loans and cut borrowing costs for the second time this year, a Reuters poll showed on Monday, … [+2418 chars]
+
+Article: 86: Fed hikes interest rates, battles inflation - Reuters
+The Federal Reserve on Wednesday raised interest rates by a quarter of a percentage point and laid out an aggressive plan to push borrowing costs to restrictive levels by next year as concerns about high inflation and the war in Ukraine overtook the risks of …
+Posted 
+The Federal Reserve on Wednesday raised interest rates by a quarter of a percentage point and laid out an aggressive plan to push borrowing costs to restrictive levels by next year as concer… [+136 chars]
+
+Article: 87: France's COVID-19 infections spike week-on-week following easing of restrictions - Reuters
+France reported an average of close to 90,000 new coronavirus infections over the last seven days, marking a 36% rise from one week ago when most COVID-19 health protocol measures were lifted by the government just ahead of the country's elections.
+PARIS, March 21 (Reuters) - France reported an average of close to 90,000 new coronavirus infections over the last seven days, marking a 36% rise from one week ago when most COVID-19 health protocol … [+1737 chars]
+
+Article: 88: Biden will deliver remarks on law to bolster protections for women facing violence - Reuters
+U.S. President Joe Biden on Wednesday will deliver remarks on the Violence Against Women Act, which he renewed a day earlier while signing a massive spending bill into law, as an alarming spike in domestic violence coinciding with the coronavirus pandemic has…
+WASHINGTON, March 16 (Reuters) - U.S. President Joe Biden on Wednesday will deliver remarks on the Violence Against Women Act, which he renewed a day earlier while signing a massive spending bill int… [+1738 chars]
+
+Article: 89: Australia's Myer Holdings reinstates dividend after four years - Reuters.com
+Australian retailer Myer Holdings Ltd <a href="https://www.reuters.com/companies/MYR.AX" target="_blank">(MYR.AX)</a> on Thursday announced its first dividend payout since 2017, encouraged by a return to sales growth in the second half of this year after coro…
+March 10 (Reuters) - Australian retailer Myer Holdings Ltd (MYR.AX) on Thursday announced its first dividend payout since 2017, encouraged by a return to sales growth in the second half of this year … [+1344 chars]
+
+Article: 90: Hong Kong leader urges vaccinations as COVID infections swamp city - Reuters.com
+Hong Kong leader Carrie Lam said on Friday that the city's vaccination program would focus on its elderly and children, as authorities battled to reduce a surge of coronavirus infections and climbing death rates which have ripped through care homes and overwh…
+HONG KONG, March 11 (Reuters) - Hong Kong leader Carrie Lam said on Friday that the city's vaccination program would focus on its elderly and children, as authorities battled to reduce a surge of cor… [+2980 chars]
+
+Article: 91: Omicron Surge Persists in Parts of Asia
+Some countries in East and Southeast Asia are enduring their worst waves of the pandemic even as a severe Omicron wave has retreated in much of the world.
+The once severe Omicron wave that has retreated in much of the world is still flaring up in parts of East and Southeast Asia, where caseloads are rising and some countries are enduring their worst wa… [+2315 chars]
+
+Article: 92: Ont. confirms 20 virus-related deaths today; Number of COVID-19 patients in ICU drops to 246 - CP24 Toronto's Breaking News
+<ol><li>Ont. confirms 20 virus-related deaths today; Number of COVID-19 patients in ICU drops to 246  CP24 Toronto's Breaking News
+</li><li>Public Health Reports Two New Deaths and Increase in Hospitalizations Due to COVID-19  VOCM
+</li><li>Coronavirus in Q…
+Ontario is reporting another 20 virus-related deaths today as the number of COVID-19 patients in intensive care continues to decline.
+Provincial health officials say there are currently 779 patients… [+1871 chars]
+
+Article: 93: China battles multiple outbreaks of COVID-19; mass testing ordered - CP24 Toronto's Breaking News
+<ol><li>China battles multiple outbreaks of COVID-19; mass testing ordered  CP24 Toronto's Breaking News
+</li><li>Coronavirus cases climb in China, raising the threat of trade disruption  CBC News
+</li><li>Ontario could see ‘significant uptick’ in COVID cas…
+TAIPEI, Taiwan (AP) - China banned most people from leaving a coronavirus-hit northeastern province and mobilized military reservists Monday as the fast-spreading stealth omicron variant fuels the co… [+4335 chars]
+
+Article: 94: Second pandemic anniversary doesn't mark the end of COVID-19: Dr. Howard Njoo - CP24 Toronto's Breaking News
+<ol><li>Second pandemic anniversary doesn't mark the end of COVID-19: Dr. Howard Njoo  CP24 Toronto's Breaking News
+</li><li>2 years into the pandemic, burning questions remain about COVID-19 — and how we fight it  CBC News
+</li><li>COVID-19: Essential coro…
+The news conference at the beginning of 2020 wasnt all that different from the many Dr. Howard Njoo had held in the past.
+The public health veteran helped to manage the first avian flu cases in 2004… [+4710 chars]
+
+Article: 95: COVID-19 update for March 22: No deaths, hospitalizations keep dropping | 2,500 unvaxxed B.C. health-care workers lost jobs | Health minister says no end in sight for federal restrictions - Vancouver Sun
+<ol><li>COVID-19 update for March 22: No deaths, hospitalizations keep dropping | 2,500 unvaxxed B.C. health-care workers lost jobs | Health minister says no end in sight for federal restrictions  Vancouver Sun
+</li><li>Ontario confirms 7 more coronavirus de…
+Here's your daily update with everything you need to know on the coronavirus situation in B.C. 
+Here's your daily update with everything you need to know on the coronavirus situation in B.C.Photo by… [+10510 chars]
+
+Article: 96: US Surgeon General orders tech companies to reveal sources of COVID-19 misinformation
+President Biden's surgeon general Dr. Vivek Murthy has formally called on tech companies to provide information on sources and the scale of COVID-19 misinformation, The Washington Post has reported. "This is about protecting the nation’s health," he told The …
+President Biden's surgeon general Dr. Vivek Murthy has formally called on tech companies to provide information on sources and the scale of COVID-19 misinformation, The Washington Post has reported. … [+1728 chars]
+
+Article: 97: Hong Kong reports 37529 new COVID-19 cases, 150 deaths - Reuters.com
+Hong Kong reported 37,529 new coronavirus infections on Saturday and 150 deaths, as the city clings to a "zero-COVID" strategy despite spiralling cases that have spread through care homes and overwhelmed healthcare facilities.
+HONG KONG, March 5 (Reuters) - Hong Kong reported 37,529 new coronavirus infections on Saturday and 150 deaths, as the city clings to a "zero-COVID" strategy despite spiralling cases that have spread… [+2419 chars]
+
+Article: 98: Almost a third of people report lingering symptom 6-12 months after COVID-19 -study - Reuters
+Almost a third of people report at least one ongoing symptom between 6 and 12 months after their coronavirus infection, a survey of 152,000 people in Denmark has found.
+March 4 (Reuters) - Almost a third of people report at least one ongoing symptom between 6 and 12 months after their coronavirus infection, a survey of 152,000 people in Denmark has found.
+The study… [+2716 chars]
+
+Article: 99: Belgium set to remove almost all COVID restrictions - Reuters.com
+Belgium will remove almost all its coronavirus restrictions from Monday, ending a requirement to wear masks in almost all places and scrapping the need to show a COVID-19 pass for indoor venues from cafes to sports halls.
+BRUSSELS, March 4 (Reuters) - Belgium will remove almost all its coronavirus restrictions from Monday, ending a requirement to wear masks in almost all places and scrapping the need to show a COVID-1… [+1672 chars]
+
+Article: 100: Bali welcomes first foreign tourists after COVID quarantine rule lifted - Reuters.com
+Indonesia's resort island of Bali on Monday welcomed its first foreign tourists under relaxed coronavirus rules that no longer require arrivals to quarantine, part of a broader easing of curbs in the Southeast Asian country after infections declined.
+Foreign tourists carrying their luggage walk as they arrive at the I Gusti Ngurah Rai International Airport, as the local government kicks off the first day of the 'quarantine free' trial, amid the c… [+1966 chars]
+
